@@ -95,7 +95,7 @@
             alt="https://saweria.co/callmeleon" /></a></p><br><br>
 
 <div style="display: flex; flex-wrap: wrap;">
-    <p><img align="left" style="width: 400px;"
+    <p><img align="left" style="\"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact"
             alt="adrianalfauzan" /></p>
 
