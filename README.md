@@ -86,10 +86,10 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://saweria.co/callmeleon"> <img align="left"
+<p><a href="https://saweria.co/callmeleon"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="https://saweria.co/callmeleon" /></a><a href="https://ko-fi.com/https://saweria.co/callmeleon"> <img
-            align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210"
+            alt="https://saweria.co/callmeleon" /></a><a href="https://saweria.co/callmeleon"> <img align="left"
+            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210"
             alt="https://saweria.co/callmeleon" /></a></p><br><br>
 
 <p><img align="left"
