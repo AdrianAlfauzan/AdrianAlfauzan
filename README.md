@@ -94,16 +94,15 @@
             src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210"
             alt="https://saweria.co/callmeleon" /></a></p><br><br>
 
-<div style="display: flex; flex-direction: column; align-items: center; max-width: 900px; width: 100%; padding: 20px; background-color: #fff; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); border-radius: 5px;">
-        <div style="width: 100%; display: flex; justify-content: space-between;">
-            <img style="flex: 1; max-width: 48%; border-radius: 5px; width: 400px; height: auto;" 
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact" 
-                alt="Top Languages" />
-            <img style="flex: 1; max-width: 48%; border-radius: 5px; width: 400px; height: auto;" 
-                src="https://github-readme-stats.vercel.app/api?username=adrianalfauzan&show_icons=true&locale=en" 
-                alt="GitHub Stats" />
-        </div>
-        <div style="margin-top: 20px; width: 100%;">
-            <img style="width: 100%; border-radius: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&" alt="GitHub Streak" />
-        </div>
-    </div>
+<div style="display: flex; flex-wrap: wrap;">
+    <p><img align="left" style="width: 500px;"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact"
+            alt="adrianalfauzan" /></p>
+
+<p>&nbsp;<img align="center"
+            src="https://github-readme-stats.vercel.app/api?username=adrianalfauzan&show_icons=true&locale=en"
+            alt="adrianalfauzan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&"
+            alt="adrianalfauzan" /></p>
+</div>
