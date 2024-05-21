@@ -94,8 +94,8 @@
             src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210"
             alt="https://saweria.co/callmeleon" /></a></p><br><br>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <p><img align="left" style="width:350px;"
+
+<p><img align="left" style="width:350px;"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact"
             alt="adrianalfauzan" /></p>
 
@@ -105,4 +105,4 @@
 
 <p><img align="center" style=""
             src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&" alt="adrianalfauzan" /></p>
-</div>
+
