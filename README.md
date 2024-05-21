@@ -98,7 +98,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact"
         alt="adrianalfauzan" /></p>
 
-<p>&nbsp;<img align="center"
+<p>&nbsp;<img align="right"
         src="https://github-readme-stats.vercel.app/api?username=adrianalfauzan&show_icons=true&locale=en"
         alt="adrianalfauzan" /></p>
 
