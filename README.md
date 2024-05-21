@@ -99,10 +99,10 @@
             src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact"
             alt="adrianalfauzan" /></p>
 
-    <p>&nbsp;<img align="center"
+<p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=adrianalfauzan&show_icons=true&locale=en"
             alt="adrianalfauzan" /></p>
 
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&"
             alt="adrianalfauzan" /></p>
 </div>
