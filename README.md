@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I can troubleshoot code**
 
+- 📞 how to contact me **https://wa.me/+6281222518720**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.instagram.com/_leonyr/" target="blank"><img align="center"
