@@ -23,7 +23,8 @@
 
 - ⚡ Fun fact **I can troubleshoot code**
 
-- 📞 how to contact me **https://wa.me/+6281222518720**
+- 📞 how to contact me **<a href="mailto:adrianmusaalfauzan" target="_blank">Send Email</a>
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
