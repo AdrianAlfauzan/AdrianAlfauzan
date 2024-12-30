@@ -3,7 +3,7 @@
 </div>    
 
 <h1 align="center">Hi 👋, I'm Adrian Musa Alfauzan</h1>
-<div align="center">I am a full-time full-stack web developer 👨‍💻</div>  
+### <div align="center">I am a full-time full-stack web developer 👨‍💻</div>  
 <h3 align="center">A Passionate Programmer Exploring technology and Cracking Codes🚀
     
 ---
