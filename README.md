@@ -75,8 +75,7 @@
 
 <div style="display: flex; ">
     <div>
-        <h3>🔝 Top Contributed Repo</h3>
-        <img src="https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+   
     </div>
    <div>
      <h3>🌱 About Me:</h3>
@@ -119,6 +118,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=adrianalfauzan&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&theme=radical" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+         <h3>🔝 Top Contributed Repo</h3>
+        <img src="https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 ---
