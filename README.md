@@ -80,9 +80,8 @@
     <h3>🔝 Top Contributed Repo</h3>
     <img src="https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
-    <hr />
-
-    <h3>🌱 About Me:</h3>
+   <div>
+     <h3>🌱 About Me:</h3>
     <ul style="list-style-type: none; padding: 0;">
         <li>🔭 Currently learning <strong>ReactJS, TensorFlow, and Artificial Intelligence</strong></li>
         <li>💬 Ask me about <strong>Python Programming</strong></li>
@@ -90,6 +89,7 @@
         <li>⚡ Fun Fact: <strong>I enjoy troubleshooting code problems!</strong></li>
         <li>📞 Need Help? <a href="mailto:adrianmusaalfauzan@gmail.com">Send Email</a></li>
     </ul>
+   </div>
 </div>
 
 
