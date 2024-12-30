@@ -1,14 +1,21 @@
-<img align="right" alt="coding" width="400" 
-    src="https://media.licdn.com/dms/image/D4D12AQFLgvgs2WvyJQ/article-cover_image-shrink_600_2000/0/1683923173203?e=2147483647&v=beta&t=xGtuNa7LLj1EMX9LzJlrGLxMYdCM4L5nCC0tw-MmIhs">
+<div align="center">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679318847642/eb05a32c-e2a5-40fb-969b-5a72f78e30ef.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" align="center" style="width: 100%" />
+</div>  
+  
 
-<h1 align="center">Hi 👋, I'm Adrian Musa Alfauzan</h1>
-<h3 align="center">A Passionate Programmer Exploring AI and Solving Code Challenges</h3>
+### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+  
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://komarev.com/ghpvc/?username=adrianalfauzan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square" alt="ReactJS" />
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow" />
-</div>
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+  
+
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
 
 ---
 
