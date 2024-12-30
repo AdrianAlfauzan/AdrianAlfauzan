@@ -6,7 +6,7 @@
 
 ### <div align="center">I am a full-time full-stack web developer 👨‍💻</div>  
 <h3 align="center">A Passionate Programmer Exploring technology and Cracking Codes🚀
-    
+<br>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=rishavanand&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square" alt="ReactJS" />
