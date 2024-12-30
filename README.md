@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Musa Alfauzan</h1>
 <h3 align="center">A Passionate Programmer Exploring AI and Solving Code Challenges</h3>
 
-<div align:"center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
         <img src="https://komarev.com/ghpvc/?username=adrianalfauzan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square" alt="ReactJS" />
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow" />
