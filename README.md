@@ -76,10 +76,10 @@
 
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; height: 100vh;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; height: 100vh; min-height: 100vh;">
     <div>
         <h3>🔝 Top Contributed Repo</h3>
-        <img width:50 src="https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+        <img src="https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
     </div>
    <div>
      <h3>🌱 About Me:</h3>
