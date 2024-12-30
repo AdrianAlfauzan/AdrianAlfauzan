@@ -12,7 +12,10 @@
     <img src="https://komarev.com/ghpvc/?username=rishavanand&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square" alt="ReactJS" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-Programmer-007ACC?logo=git&logoColor=white&style=flat-square" alt="Programmer" />
 </h3>
+
 
 
 ---
