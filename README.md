@@ -10,9 +10,13 @@
 ---
 
 ### 🏆 Achievements:
-<p align="center">
+<h3>🔝 Top Contributed Repo</h3>
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
+<div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=adrianalfauzan&margin-w=5&theme=darkhub" alt="Trophies" />
-</p>
+</div>
 
 ---
 ### 💻 Tech Stack:
@@ -74,9 +78,6 @@
 ---
 
 <div style="display: flex; ">
-    <div>
-   
-    </div>
    <div>
      <h3>🌱 About Me:</h3>
     <ul style="list-style-type: none; padding: 0;">
@@ -118,8 +119,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=adrianalfauzan&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&theme=radical" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-         <h3>🔝 Top Contributed Repo</h3>
-        <img src="https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  
 </div>
 
 ---
