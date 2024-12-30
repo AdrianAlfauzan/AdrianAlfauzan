@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Adrian Musa Alfauzan</h1>
 <h3 align="center">A Passionate Programmer Exploring AI and Solving Code Challenges</h3>
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
 
 ---
 
