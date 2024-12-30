@@ -82,11 +82,12 @@
    <div>
      <h3>🌱 About Me:</h3>
     <ul style="list-style-type: none; padding: 0;">
-        <li>🔭 Currently learning <strong>ReactJS, TensorFlow, and Artificial Intelligence</strong></li>
-        <li>💬 Ask me about <strong>Python Programming</strong></li>
-        <li>📫 Reach me at <a href="mailto:adrianmusaalfauzan@gmail.com">adrianmusaalfauzan@gmail.com</a></li>
-        <li>⚡ Fun Fact: <strong>I enjoy troubleshooting code problems!</strong></li>
-        <li>📞 Need Help? <a href="mailto:adrianmusaalfauzan@gmail.com">Send Email</a></li>
+     <li>🔭 Currently learning <strong>ReactJS, Node.js, and Advanced JavaScript</strong></li>
+<li>💬 Ask me about <strong>JavaScript, React, and Full-stack Development</strong></li>
+<li>📫 Reach me at <a href="mailto:adrianmusaalfauzan@gmail.com">adrianmusaalfauzan@gmail.com</a></li>
+<li>⚡ Fun Fact: <strong>I love building scalable and efficient web applications using modern JavaScript frameworks!</strong></li>
+<li>📞 Need Help? <a href="mailto:adrianmusaalfauzan@gmail.com">Send Email</a></li>
+
     </ul>
    </div>
 </div>
@@ -106,7 +107,6 @@
 ### ✍️ Random Dev Quote
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
 </div>
 
 ---
