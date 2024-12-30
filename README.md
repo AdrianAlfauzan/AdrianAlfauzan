@@ -14,6 +14,11 @@
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+---
+
 ### 🌱 About Me:
 - 🔭 Currently learning **ReactJS, TensorFlow, and Artificial Intelligence**
 - 💬 Ask me about **Python Programming**
