@@ -52,12 +52,10 @@
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adrianalfauzan&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdrianAlfauzan&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdrianAlfauzan&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianAlfauzan&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
