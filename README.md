@@ -61,6 +61,10 @@
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
 ### ❤️ Support Me:
 <p align="center">
     <a href="https://saweria.co/callmeleon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee" /></a>
