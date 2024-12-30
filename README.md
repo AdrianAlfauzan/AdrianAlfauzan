@@ -76,17 +76,22 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+    <h3>🔝 Top Contributed Repo</h3>
+    <img src="https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
----
+    <hr />
 
-### 🌱 About Me:
-- 🔭 Currently learning **ReactJS, TensorFlow, and Artificial Intelligence**
-- 💬 Ask me about **Python Programming**
-- 📫 Reach me at **[adrianmusaalfauzan@gmail.com](mailto:adrianmusaalfauzan@gmail.com)**
-- ⚡ Fun Fact: **I enjoy troubleshooting code problems!**
-- 📞 Need Help? **[Send Email](mailto:adrianmusaalfauzan@gmail.com)**
+    <h3>🌱 About Me:</h3>
+    <ul style="list-style-type: none; padding: 0;">
+        <li>🔭 Currently learning <strong>ReactJS, TensorFlow, and Artificial Intelligence</strong></li>
+        <li>💬 Ask me about <strong>Python Programming</strong></li>
+        <li>📫 Reach me at <a href="mailto:adrianmusaalfauzan@gmail.com">adrianmusaalfauzan@gmail.com</a></li>
+        <li>⚡ Fun Fact: <strong>I enjoy troubleshooting code problems!</strong></li>
+        <li>📞 Need Help? <a href="mailto:adrianmusaalfauzan@gmail.com">Send Email</a></li>
+    </ul>
+</div>
+
 
 ---
 
