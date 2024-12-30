@@ -76,10 +76,11 @@
 
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
-    <h3>🔝 Top Contributed Repo</h3>
-    <img src="https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; height: 100vh;">
+    <div>
+        <h3>🔝 Top Contributed Repo</h3>
+        <img src="https://github-contributor-stats.vercel.app/api?username=AdrianAlfauzan&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+    </div>
    <div>
      <h3>🌱 About Me:</h3>
     <ul style="list-style-type: none; padding: 0;">
@@ -91,6 +92,7 @@
     </ul>
    </div>
 </div>
+
 
 
 ---
