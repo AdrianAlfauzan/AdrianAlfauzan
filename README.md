@@ -11,8 +11,9 @@
 <h3 align="center" >
     <img src="https://komarev.com/ghpvc/?username=rishavanand&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square" alt="ReactJS" />
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
 </h3>
+
 
 ---
 
