@@ -91,11 +91,17 @@
    </div>
 </div>
 
-
-
 ---
 
+### 📊 GitHub Stats:
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=adrianalfauzan&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  
+</div>
 
+---
 
 ### 💻 Connect with me:
 <div align="center">
@@ -112,16 +118,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>   -->
 </div>  
-
----
-
-### 📊 GitHub Stats:
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adrianalfauzan&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  
-</div>
 
 ---
 
