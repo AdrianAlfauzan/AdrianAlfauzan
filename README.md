@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
-<h1 align="center">Hi 👋, I'm Adrian Musa Alfauzan</h1>
+### <h1 align="center">Hi 👋, I'm Adrian Musa Alfauzan</h1>
 <h3 align="center">A Passionate Programmer Exploring AI and Solving Code 
 
 ---
