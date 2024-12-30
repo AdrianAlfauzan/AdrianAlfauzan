@@ -3,16 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Adrian Musa Alfauzan</h1>
 <h3 align="center">A Passionate Programmer Exploring AI and Solving Code Challenges</h3>
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
-
-  
-
-<br/>  
-
-
 ---
 
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
     <img src="https://komarev.com/ghpvc/?username=adrianalfauzan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square" alt="ReactJS" />
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow" />
