@@ -104,7 +104,7 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=prathamesh-sonpatki&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=prateekjoshi565&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&theme=radical" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianalfauzan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   
