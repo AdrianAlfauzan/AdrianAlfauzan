@@ -1,13 +1,9 @@
 <div align="center">
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679318847642/eb05a32c-e2a5-40fb-969b-5a72f78e30ef.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
+</div>    
 ### <h1 align="center">Hi 👋, I'm Adrian Musa Alfauzan</h1>
-<h3 align="center">A Passionate Programmer Exploring AI and Solving Code 
-
+### <div align="center">I am a full-time full-stack web developer 👨‍💻</div>  
+<h3 align="center">A Passionate Programmer Exploring technology and Cracking Codes🚀
 ---
 
 ### 🏆 Achievements:
