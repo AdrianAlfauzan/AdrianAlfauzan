@@ -16,7 +16,7 @@
 
 ### 🏆 Achievements:
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rishavanand&margin-w=5&theme=darkhub&column=6&row=3" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mgechev&margin-w=5&theme=darkhub&column=6&row=3" alt="Trophies" />
 </div>
 
 
