@@ -4,9 +4,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Musa Alfauzan</h1>
 <h3 align="center">A Passionate Programmer Exploring AI and Solving Code Challenges</h3>
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+
   
 
 <br/>  
