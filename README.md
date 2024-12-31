@@ -27,7 +27,7 @@
 
 ### 🏆 Achievements:
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=superXdev&margin-w=5&theme=darkhub&column=6&row=3" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=prathamesh-sonpatki&margin-w=5&theme=darkhub&column=6&row=3" alt="Trophies" />
 </div>
 
 
@@ -111,7 +111,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=anantshri&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianalfauzan&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WickyNilliams&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=superXdev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
