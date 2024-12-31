@@ -27,7 +27,7 @@
 
 ### 🏆 Achievements:
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=prathamesh-sonpatki&margin-w=5&theme=darkhub&column=6&row=3" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=superXdev&margin-w=5&theme=darkhub&column=6&row=3" alt="Trophies" />
 </div>
 
 
