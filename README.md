@@ -99,34 +99,16 @@
 
 ### Platform
 <div align="center">
-  <!-- Web Development -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  <!-- Web -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Web" height="50" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img style="margin: 10px" src="https://nestjs.com/img/logo-small.svg" alt="NestJS" height="50" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-  </a>
-
-  <!-- Mobile Development -->
+  <!-- Mobile -->
   <a href="https://www.android.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" height="50" />
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" height="50" />
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="Mobile" height="50" />
   </a>
 </div>
+
 
 
 
